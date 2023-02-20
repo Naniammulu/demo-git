@@ -1,1 +1,5 @@
-hi everyone welcome to my home
+this is my new git file 
+name 
+age 
+sex
+height
