@@ -1,5 +1,3 @@
 this is my new git file 
-name 
-age 
-sex
-height
+am working on jenkins and git hub
+its very intrested
